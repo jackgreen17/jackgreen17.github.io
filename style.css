@@ -8,3 +8,7 @@ body {
   background-color: white;
   display: flex;
 }
+.assign img {
+  width: 200px;
+  padding: 10px;
+}
